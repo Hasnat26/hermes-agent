@@ -1,0 +1,16 @@
+[
+  {
+    "item": "415V Induction Motor",
+    "quantity": 10,
+    "specification": {
+      "voltage": "415V",
+      "frequency": "50Hz",
+      "phase": "3PH",
+      "efficiency": "IE3",
+      "ip": "IP55"
+    },
+    "evidence": [
+      {"document": "RFQ_Motor_Spec.pdf", "page": 2, "quote": "10 Nos, 415V, 50Hz, 3PH, IE3, IP55"}
+    ]
+  }
+]
