@@ -1,0 +1,36 @@
+[
+  {
+    "vendor": "Vendor A",
+    "reference": "VA-001",
+    "payment_terms": "30% advance, 70% before shipment",
+    "items": [
+      {
+        "item": "415V Induction Motor",
+        "quantity": 10,
+        "unit_price": 1250,
+        "currency": "USD",
+        "delivery_days": 12,
+        "warranty_months": 18,
+        "specification": {"voltage": "415V", "frequency": "50Hz", "phase": "3PH", "efficiency": "IE3", "ip": "IP55"},
+        "evidence": [{"document": "Vendor_A_Quotation.pdf", "page": 4, "quote": "Qty 10; Unit Price USD 1,250; IE3; IP55"}]
+      }
+    ]
+  },
+  {
+    "vendor": "Vendor B",
+    "reference": "VB-002",
+    "payment_terms": "20% advance, balance on delivery",
+    "items": [
+      {
+        "item": "415V Induction Motor",
+        "quantity": 12,
+        "unit_price": 1450,
+        "currency": "USD",
+        "delivery_days": 10,
+        "warranty_months": 12,
+        "specification": {"voltage": "415V", "frequency": "50Hz", "phase": "3PH", "efficiency": "IE2", "ip": "IP55"},
+        "evidence": [{"document": "Vendor_B_Quotation.pdf", "page": 3, "quote": "Qty 12; Unit Price USD 1,450; IE2; IP55"}]
+      }
+    ]
+  }
+]
